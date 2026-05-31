@@ -1,7 +1,7 @@
 {
   "id": "mantle-docs",
   "name": "Mantle Docs",
-  "description": "View code and data files (JSON, TS, CSS, etc.) with elegant, read-only formatting directly in Obsidian.",
+  "description": "View code and data files (JSON, TS, CSS, etc.) with elegant, read-only formatting directly in your vault.",
   "version": "1.0.0",
   "author": "Ryan Bakker",
   "authorUrl": "https://ryanbakker.vercel.app/",
