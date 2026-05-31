@@ -1,9 +1,5 @@
 # Mantle Docs
 
-> [!NOTE]
-> **Status: Beta (v1.0.0)**  
-> Mantle Docs is currently in public Beta. Updates are focused on supporting additional programming languages and enhancing formatting controls.
-
 Mantle Docs is a high-performance, read-only document viewer designed specifically for code and raw data files (JSON, TypeScript, CSS, CSV, HTML, YAML, etc.) within your Obsidian vault. It eliminates raw-text editing lag, applying syntax highlighting and syntax structures in a clean interface.
 
 ---
@@ -25,7 +21,7 @@ Mantle Docs is engineered to inherit aesthetic tokens from the **Project Mantle*
 
 ## 📥 Installation
 
-### Method A: Via Obsidian Community Directory (Recommended once approved)
+### Method A: Via Obsidian Community Directory (Recommended)
 1. Go to **Settings** > **Community plugins** > **Browse**.
 2. Search for **Mantle Docs**.
 3. Click **Install**, then click **Enable**.
